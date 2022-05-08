@@ -4,7 +4,7 @@ I publish here decrypted versions of Telegram for iOS using my jailbroken device
 
 ### Why?
 
-1. According to 8th step of [Telegram's reproducible builds for iOS](https://core.telegram.org/reproducible-builds#reproducible-builds-for-ios) we need to get decrypted version by ourselves.
+1. According to 8th step of [Telegram's reproducible builds for iOS](https://core.telegram.org/reproducible-builds#reproducible-builds-for-ios) (official page) we need to get decrypted version by ourselves.
 
 > This step requires a jailbroken device equipped with tools for decrypting apps. We‘d love to make this process more simple but that’s what you get for using Apple tech.
 
