@@ -16,4 +16,4 @@ I extract decrypted .ipa files manually using [frida](https://github.com/frida/f
 
 ### Where?
 
-I make releases in the "[Releases](https://github.com/MarshalX/decrypted-telegram-ios/releases)" section of this repository. I mark TestFlight's versions using this semantic: `MAJOR.MINOR.PATCH.BUILD`, for versions from App Store I use this one: `MAJOR.MINOR.PATCH`.
+I make releases in the "[Releases](https://github.com/MarshalX/decrypted-telegram-ios/releases)" section of this repository. I mark TestFlight's versions using this semantic: `MAJOR.MINOR.?PATCH.BUILD`, for versions from App Store I use this one: `MAJOR.MINOR.?PATCH`.
